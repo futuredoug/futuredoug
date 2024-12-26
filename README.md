@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @futuredoug
-- 👀 I’m interested in becoming an excellent mobile programmer
-- 🌱 I’m currently learning HTML5,CSS3 and JavaScript
+- 👀 I’m interested in becoming an excellent programmer
+- 🌱 I’m currently focusing on the Java lenguage
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
